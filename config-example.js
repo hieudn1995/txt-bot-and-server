@@ -10,7 +10,7 @@ var conf = {
     'https-port': 3001,
     'bot-prefix': '+',
     'bot-token': 'NjA4NzE1NjQ3NjM1MTYxMTE4.XUzXgw.rK-9mzPdwV2yVGYtCr-7UjNH-W0',
-    'mongodb-url': 'https://dâtbases-auth.000webhost.com/db_stucture.php?server=1&db=id5942373_bot',
+    'mongodb-url': 'https://databases-auth.000webhost.com/db_stucture.php?server=1&db=id5942373_bot',
     'guild': 'guild id goes here as a number',
     'log-level': 1
 };
